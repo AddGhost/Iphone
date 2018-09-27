@@ -6,7 +6,6 @@ public class PrintPhoneName {
 		// TODO Auto-generated method stub
 System.out.println("Iphone");
 
-System.out.println("New changes are added :");
 	}
 
 }
